@@ -2,4 +2,3 @@
 
 ---
 1. Pentadiagonal System of Equations Solving Algorithm
----
